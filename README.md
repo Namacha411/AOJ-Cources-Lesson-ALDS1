@@ -9,7 +9,15 @@ AOJ Cources in C lang.
 - [x] topic #1
 - [x] topic #2
 - [ ] topic #3
+  - [x] 3_A
+  - [x] 3_B
+  - [ ] 3_C
+  - [ ] 3_D
 - [ ] topic #4
+  - [x] 4_A
+  - [x] 4_B
+  - [ ] 4_C
+  - [ ] 4_D
 - [ ] topic #5
 - [ ] topic #6
 - [ ] topic #7
