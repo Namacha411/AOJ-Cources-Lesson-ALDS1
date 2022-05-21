@@ -18,11 +18,7 @@ AOJ Cources in C lang.
   - [x] 4_B
   - [ ] 4_C
   - [ ] 4_D
-- [ ] topic #5
-  - [x] 5_A
-  - [ ] 5_B
-  - [ ] 5_C
-  - [ ] 5_D
+- [x] topic #5
 - [ ] topic #6
 - [ ] topic #7
 - [ ] topic #8
